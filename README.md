@@ -84,6 +84,5 @@ N, M: Odd, 5 ≤ N, M ≤ 101
 Single solution via DFS
 No external libraries
 Example
-
 Input: n=7, m=7
 Output: (as above)
