@@ -17,7 +17,7 @@ Developed with Java 17 and Spring Boot, showcasing RESTful APIs, algorithmic des
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/anshulprajapati990/modlix-interview-anshul-prajapati.git
    cd pi-search-maze
 Add Pi Files (Optional):
 Place pi_million.txt in src/main/resources/.
